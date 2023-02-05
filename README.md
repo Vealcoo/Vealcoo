@@ -63,6 +63,11 @@ Native speaker
 
 ---
 
+# 🔗 Project
+- [https://recut.fun](https://recut.fun)
+
+---
+
 # 📚 Education
 
 ## ****Bachelor's Degree in Information Management****
