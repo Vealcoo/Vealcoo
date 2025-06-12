@@ -57,14 +57,9 @@ Native speaker
 
 # 📜 Articles and Talks
 
-- [Mongodb Transcation](https://marc-huang.notion.site/Mongodb-Transcation-f1089ca6e61d4f7581a8870ed7523e38)
-
-- [Micro-Servive Error Handler](https://marc-huang.notion.site/Error-Handler-bb0659c01fa6463f9c31f3934531e6ec)
-
 ---
 
 # 🔗 Project
-- [https://recut.fun](https://recut.fun)
 
 ---
 
